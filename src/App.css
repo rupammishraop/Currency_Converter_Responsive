@@ -16,9 +16,11 @@
 
 .app {
   margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
   align-self: start;
   padding: 1rem 2rem;
-  width: 80%;
+  width: 100%;
   background: #141E30;
   background: #E0EAFC;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
