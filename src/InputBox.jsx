@@ -1,5 +1,4 @@
 import React from 'react'
-import './inputBox.css'
 function InputBox({
     amount,
     label,
